@@ -28,12 +28,13 @@ FDV_1.1_Herramienta.Git LFS
 
 ### 4. agrear una textura y un **ScriptTarea12.cs**
 
-    **4.1. agregar una textura llamado "texture1"**
+    4.1. agregar una textura llamado "texture1"
     ![alt text](image.png)
 
-    **4.2. crear un script**
+    4.2. crear un script
 
     **ScriptTarea12.cs: **
+    
     ```
     using UnityEngine;
 
