@@ -28,25 +28,25 @@ FDV_1.1_Herramienta.Git LFS
 
 ### 4. agrear una textura y un **ScriptTarea12.cs**
 
-    4.1. agregar una textura llamado "texture1"
-    ![alt text](image.png)
+4.1. agregar una textura llamado "texture1"
+![alt text](image.png)
 
-    4.2. crear un script
+4.2. crear un script
 
-    **ScriptTarea12.cs: **
-    
-    ```
-    using UnityEngine;
+**ScriptTarea12.cs: **
 
-    public class ScriptTarea12 : MonoBehaviour
+```
+using UnityEngine;
+
+public class ScriptTarea12 : MonoBehaviour
+{
+    void Start()
     {
-        void Start()
-        {
-            Debug.Log("Script tarea 1.2");
-        }
+        Debug.Log("Script tarea 1.2");
     }
-    ```
-    ![alt text](image-3.png)
+}
+```
+![alt text](image-3.png)
 
 ### 5. realiza los siguientes comandos con git LFS:
 ```
